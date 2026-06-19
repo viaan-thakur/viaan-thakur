@@ -39,18 +39,13 @@
 
 ---
 
-## 🧠 Top Languages
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=viaan-thakur&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
-</p>
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:viaan4542@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://t.me/@KAGE_EXE"><img src="https://skills-icons.vercel.app/api/icons?i=telegram"></a>
 </p>
+
 
 ---
 
