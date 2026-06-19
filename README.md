@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viaan Thakyr</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Spring+Boot+Developer;React+Learner;Building+Real+World+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Android+Developer;13+Year+Old;From+The+Queen+Of+Hills+🚀" />
 </p>
 
 ---
